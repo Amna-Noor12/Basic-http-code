@@ -1,0 +1,14 @@
+{
+  "name": "pkg.json",
+  "version": "1.0.0",
+  "description": "It is server code",
+  "main": "server.js",
+  "author": "amna",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
